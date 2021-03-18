@@ -1,0 +1,3 @@
+include ':librarym'
+include ':app'
+rootProject.name = "Deneme"
