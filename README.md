@@ -13,3 +13,11 @@ allprojects {
        }
 }
 ```
+
+Puis celui là
+
+```
+dependencies {
+    implementation 'com.github.LeGlitcheurDu78:Dbmanage:1.0'
+}
+```
