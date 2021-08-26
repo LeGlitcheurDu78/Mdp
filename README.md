@@ -6,10 +6,8 @@ DBmanage et utilisé pour manier plus facilement les DB SQLite
 
 Dans le build.gradle de l'app ajouter ce code
 
-<code>
-allprojects {
-		repositories {
-			maven { url 'https://jitpack.io' }<br/>
-    }<br/>
-}
-</code>
+`allprojects {
+     repositories {
+         maven { url 'https://jitpack.io' }
+     }
+}`
